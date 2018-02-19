@@ -1,0 +1,3 @@
+---
+# vars file for app-tier
+WEBROOT: /usr/share/tomcat/webapps
